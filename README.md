@@ -4,6 +4,6 @@
 
 ### If you want to find me somewhere just look up skaytacium
 
-### Discord: Skaytacium#9690
+### Discord: Skaytacium#1337
 
 I can't make good readmes
