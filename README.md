@@ -39,5 +39,5 @@ Specific profile not listed? Look up `Skaytacium`, I'm probably there.
   - RAM: 16GiB 1600Mhz DDR3 (soon to be 32gb 3200Mhz DDR4)
   - Monitor: Between 1440p and 4k, 60hz, ~110% SRGB (soon to be 1440p, 144hz, 100% SRGB)
   - Development environment: Windows with heavy modifications (not changing)
-  - Text editor: VSCode Insiders (not changing)
+  - Text editor: VSCode Insiders (not changing) and self-compiled Vim with all supported languages compiled too (except python and perl) :smugface:
   - IQ: ~~Infinite~~ 0 probably
