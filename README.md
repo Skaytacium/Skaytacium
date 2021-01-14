@@ -37,7 +37,7 @@ Specific profile not listed? Look up `Skaytacium`, I'm probably there.
   - CPU: Intel i7 4870HQ (soon to be AMD Ryzen 9 5900X (IF I CAN GET ONE))
   - GPU: AMD Radeon R9 M370X (soon to be Nvidia RTX 3080 (IF I CAN GET ONE))
   - RAM: 16GiB 1600Mhz DDR3 (soon to be 32gb 3200Mhz DDR4)
-  - Monitor: Between 1440p and 4k, 60hz, ~110% SRGB (soon to be 1400p, 144hz, 100% SRGB)
+  - Monitor: Between 1440p and 4k, 60hz, ~110% SRGB (soon to be 1440p, 144hz, 100% SRGB)
   - Development environment: Windows with heavy modifications (not changing)
   - Text editor: VSCode Insiders (not changing)
   - IQ: ~~Infinite~~ 0 probably
