@@ -1,9 +1,26 @@
 # Skaytacium
 
-## Tabs (Width: 4), C-Style languages, CLI, Windows *can* be used for development, Markdown > HTML, Data structures > Algorithms
-## Just your average 15 year old
+## Professional Professional.
 
-### If you want to find me somewhere just look up `Skaytacium`
-### Discord: Skaytacium#1337
+### Skoding
 
-Teachers are nice but school is trash, expect <1k contribs for 2021 BECAUSE HELLO YOU NEED TO COMPLETE THIS WORKSHEET AND STUDY AN INFINITE AMOUNT OF CHAPTERS FOR THIS EXAM YOU WON'T EVEN CARE ABOUT IN THE NEXT LIKE 2 YEARS AND IT DOESN'T EVEN MATTER TO THE FUTURE CAREER YOU'RE GOING TO PICK BUT NOOO, IF YOU DON'T DO THIS YOU MIGHT NOT GET INTO THE UNIVERSITY THAT YOU WANT TO BECAUSE IN THE END MARKS MATTER.
+- Tabs (4 spaces).
+- CLI > GUI.
+- Typescript, Python, C++, C# and most shell languages (Pwsh, Batch, Bash).
+- Vim is good, VSCode Insiders with slow extensions is better.
+- Windows can be used as a good development environment **without WSL**.
+- Compile it yourself™ movement. (NO I DON'T USE GENTOO)
+
+### What I do
+
+- Programming ~~if you can call it that~~.
+- PCB Design.
+- Basic electronic engineering.
+- Can write "Hello world!" in x86 ASM.
+
+### More
+
+- https://skaytacium.com/me/about.html (Probably down, server is inaccessible).
+- Discord: `Skaytacium#1337` (You can find most of my other profiles here).
+
+Specific profile not listed? Look up `Skaytacium`, I'm probably there.
