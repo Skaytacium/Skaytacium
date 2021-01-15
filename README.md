@@ -28,9 +28,9 @@ Specific profile not listed? Look up `Skaytacium`, I'm probably there.
 ### Team
 
 - Hardware done by NNNI: [Youtube](https://www.youtube.com/NNNILabs), [GitHub](https://github.com/NNNIIndia), Discord: `NNNI#6070`
-- Most designs done by \_ace\_: [Youtube podcast with me and other people](https://www.youtube.com/channel/UCzQfc40tFLIctUjtLr5wMFQ), Discord: `_ace_#0308`
-- Shit jokes cracked by LAPTAINCEVI: Discord: `LAPTAINCEVI#7945`
-- "There are no bad answers, only bad questions": `KR15H#6969`
+- Most designs done by \_ace\_: [Youtube podcast](https://www.youtube.com/channel/UCzQfc40tFLIctUjtLr5wMFQ), Discord: `_ace_#0308`
+- Shit jokes cracked by LAPTAINCEVI: [Youtube podcast](https://www.youtube.com/channel/UCzQfc40tFLIctUjtLr5wMFQ), Discord: `LAPTAINCEVI#7945`
+- "There are no bad answers, only bad questions": [Youtube podcast](https://www.youtube.com/channel/UCzQfc40tFLIctUjtLr5wMFQ), Discord: `KR15H#6969`
 
 ### Other
 
@@ -42,4 +42,6 @@ Specific profile not listed? Look up `Skaytacium`, I'm probably there.
   - Monitor: Between 1440p and 4k, 60hz, ~110% SRGB (soon to be 1440p, 144hz, 100% SRGB)
   - Development environment: Windows with heavy modifications (not changing)
   - Text editor: VSCode Insiders (not changing) and self-compiled Vim with all supported languages compiled too (except python and perl) :smugface:
+  - Age: 15, almost
+  - Height (this is just a flex): 6'1"
   - IQ: ~~Infinite~~ 0 probably
