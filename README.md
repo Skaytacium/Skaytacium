@@ -15,7 +15,7 @@
 
 - Programming ~~if you can call it that~~.
 - PCB Design.
-- Basic electronic engineering.
+- Basic to intermediate electronic engineering.
 - Can write "Hello world!" in x86 ASM.
 
 ### More
