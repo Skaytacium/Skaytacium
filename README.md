@@ -33,13 +33,13 @@ Specific profile not listed? Look up `Skaytacium`, I'm probably there.
 
 ### Other
 
-- Specs:
-  - Brand: Apple (soon to be ~~Skay~~ a custom build)
-  - CPU: Intel i7 4870HQ (soon to be AMD Ryzen 9 5900X (IF I CAN GET ONE))
-  - GPU: AMD Radeon R9 M370X (soon to be Nvidia RTX 3080 (IF I CAN GET ONE))
-  - RAM: 16GiB 1600Mhz DDR3 (soon to be 32gb 3200Mhz DDR4)
-  - Monitor: Between 1440p and 4k, 60hz, ~110% SRGB (soon to be 1440p, 144hz, 100% SRGB)
-  - Development environment: Windows with heavy modifications (not changing)
+- Specs (I have 2 laptops):
+  - Brand: MSI + Apple
+  - CPU: Intel i9 10980HK + Intel i7 4870HQ
+  - GPU: Nvidia RTX 3070 + AMD Radeon R9 M370X
+  - RAM: 32Gib 3200Mhz DDR4 + 16GiB 1600Mhz DDR3
+  - Monitor: 1920x1080, 240hz, 99%SRGB + 2880x1800, 60hz, ~110% SRGB
+  - Development environment: Windows Pro + SkayOS?!?!?!
   - Text editor: VSCode Insiders (not changing) and self-compiled Vim with all supported languages compiled too (except python and perl) :smugface:
   - Age: 15, almost
   - Height (this is just a flex): 6'1"
