@@ -29,7 +29,6 @@ Specific profile not listed? Look up `Skaytacium`, I'm probably there.
 
 - Hardware done by NNNI: [Youtube](https://www.youtube.com/NNNILabs), [GitHub](https://github.com/NNNIIndia), Discord: `NNNI#6070`
 - Most designs done by \_ace\_: [Youtube podcast](https://www.youtube.com/channel/UCzQfc40tFLIctUjtLr5wMFQ), Discord: `_ace_#0308`
-- Shit jokes cracked by LAPTAINCEVI: [Youtube podcast](https://www.youtube.com/channel/UCzQfc40tFLIctUjtLr5wMFQ), Discord: `LAPTAINCEVI#7945`
 - "There are no bad answers, only bad questions": [Youtube podcast](https://www.youtube.com/channel/UCzQfc40tFLIctUjtLr5wMFQ), Discord: `KR15H#6969`
 
 ### Other
