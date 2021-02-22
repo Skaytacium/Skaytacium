@@ -20,7 +20,7 @@
 
 ### More
 
-- https://skaytacium.com/me/about.html (Probably down, server is inaccessible).
+- https://skaytacium.com/me (Probably down, server is inaccessible).
 - Discord: `Skaytacium#1337` (You can find most of my other profiles here).
 
 Specific profile not listed? Look up `Skaytacium`, I'm probably there.
