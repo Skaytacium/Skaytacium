@@ -8,8 +8,8 @@
 - CLI > GUI.
 - Typescript, Python, C++, C# and most shell languages (Pwsh, Batch, Bash).
 - Vim is good, VSCode Insiders with slow extensions is better.
-- Windows can be used as a good development environment **without WSL**. But linux is better (finally).
-- Compile it yourself™ movement. (NO I DON'T USE GENTOO, I compiled the kernel myself.)
+- Windows can be used as a good development environment **without WSL**. But linux is better (I use void).
+- Compile it yourself™ movement. (I am not a Gentoo user, I use void)
 
 ### What I do
 
