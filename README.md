@@ -6,8 +6,8 @@
 
 - Tabs (4 spaces).
 - CLI > GUI.
-- Typescript, Python, C++, C# and most shell languages (Pwsh, Batch, Bash).
-- Vim is good, VSCode Insiders with slow extensions is better.
+- Typescript, Javascript, Python, Rust, C, C++, C# and most shell languages (Pwsh, Batch, Bash, POSIX sh). Trying out Haskell too.
+- Vim is epic, VSCode Insiders with slow extensions is better.
 - Windows can be used as a good development environment **without WSL**. But linux is better (I use void).
 - Compile it yourself™ movement. (I am not a Gentoo user, I use void)
 
@@ -21,7 +21,7 @@
 ### More
 
 - https://skaytacium.com/me (Probably down, server is inaccessible).
-- Discord: `Skaytacium#1337` (You can find most of my other profiles here).
+- Discord: `Skaytacium#2254` (You can find most of my other profiles here).
 
 Specific profile not listed? Look up `Skaytacium`, I'm probably there.
 
