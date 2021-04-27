@@ -27,9 +27,9 @@ Specific profile not listed? Look up `Skaytacium`, I'm probably there.
 
 ### Team
 
-- Hardware done by NNNI: [Youtube](https://www.youtube.com/NNNILabs), [GitHub](https://github.com/NNNIIndia), Discord: `NNNI#6070`
-- Most designs done by \_ace\_: [Youtube podcast](https://www.youtube.com/channel/UCzQfc40tFLIctUjtLr5wMFQ), Discord: `_ace_#0308`
-- "There are no bad answers, only bad questions": [Youtube podcast](https://www.youtube.com/channel/UCzQfc40tFLIctUjtLr5wMFQ), Discord: `KR15H#6969`
+- Hardware done by NNNI: [Youtube](https://www.youtube.com/NNNILabs), [GitHub](https://github.com/NNNIIndia)
+- Most designs done by \_ace\_: [Youtube podcast](https://www.youtube.com/channel/UCzQfc40tFLIctUjtLr5wMFQ)
+- "There are no bad answers, only bad questions": [Youtube podcast](https://www.youtube.com/channel/UCzQfc40tFLIctUjtLr5wMFQ)
 
 ### Other
 
