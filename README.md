@@ -26,4 +26,4 @@ Just look up `Skaytacium`.
 
 ### And
 
-- Hardware done by NNNI: [Youtube](https://www.youtube.com/NNNILabs), [GitHub](https://github.com/NNNIIndia
+- Hardware done by NNNI: [Youtube](https://www.youtube.com/NNNILabs), [GitHub](https://github.com/NNNIIndia) (he didn't want to show this lmao)
