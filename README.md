@@ -13,7 +13,7 @@
 ### What
 
 - Typing out words in files and compiling until it works.
-- Drawing traces on PBCs I'll never order.
+- Drawing traces on PCBs I'll never order.
 - Blasting capacitors.
 - Can ~~copy~~ write a "Hello world!" in x86 ASM.
 
