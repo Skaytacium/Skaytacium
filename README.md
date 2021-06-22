@@ -14,7 +14,7 @@
 
 - Typing out words in files and compiling until it works.
 - Drawing traces on PBCs I'll never order.
-- Blastic capacitors.
+- Blasting capacitors.
 - Can ~~copy~~ write a "Hello world!" in x86 ASM.
 
 ### Where
