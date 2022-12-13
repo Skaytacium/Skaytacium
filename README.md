@@ -2,7 +2,7 @@
 
 ## Professional Professional.
 
-### Who
+### Who?
 
 - Tabs (4 spaces).
 - CLI > GUI. (Obviously?)
@@ -10,20 +10,20 @@
 - Average Neovim Enjoyer.
 - Windows sucks a lot. Void Linux is the only good OS.
 
-### What
+### What?
 
 - Typing out words in files and compiling until it works.
 - Drawing traces on PCBs I'll never order.
 - Blasting capacitors.
 - Can ~~copy~~ write a "Hello world!" in x86 ASM.
 
-### Where
+### Where?
 
 - https://skaytacium.com/me.
 - Discord: `Skaytacium#2254`.
 
 Just look up `Skaytacium`.
 
-### And
+### And?
 
 - Hardware done by NNNI: [Youtube](https://www.youtube.com/NNNILabs), [GitHub](https://github.com/NNNIIndia) (he didn't want to show this lmao)
