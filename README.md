@@ -5,25 +5,14 @@
 ### Who?
 
 - Tabs (4 spaces).
-- CLI > GUI. (Obviously?)
-- Too many languages to type out :sunglasses:.
-- Average Neovim Enjoyer.
-- Windows sucks a lot. Void Linux is the only good OS.
+- I know atleast 1 language.
 
 ### What?
 
-- Typing out words in files and compiling until it works.
-- Drawing traces on PCBs I'll never order.
-- Blasting capacitors.
-- Can ~~copy~~ write a "Hello world!" in x86 ASM.
+The grammatical and philosophical difference between what a person is and who a person is makes writing this quite difficult.
 
 ### Where?
 
-- https://skaytacium.com/me.
-- Discord: `Skaytacium#2254`.
+https://skaytacium.com/me.
 
-Just look up `Skaytacium`.
-
-### And?
-
-- Hardware done by NNNI: [Youtube](https://www.youtube.com/NNNILabs), [GitHub](https://github.com/NNNIIndia) (he didn't want to show this lmao)
+Every account I've created has "Skaytacium" or "skaytacium" as its username due to how stupidly unique this name is.
